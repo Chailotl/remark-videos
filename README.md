@@ -59,7 +59,7 @@ console.log(String(file))
 
 ...then running `node example.js` yields:
 
-```
+```html
 <h1>Image</h1>
 <p><img src="image.png" alt=""></p>
 <h1>Video</h1>
