@@ -63,7 +63,7 @@ console.log(String(file))
 <h1>Image</h1>
 <p><img src="image.png" alt=""></p>
 <h1>Video</h1>
-<p><video controls="" name="media"><source src="video.mp4" type="video/mp4"></video></p>
+<p><video src="video.mp4" controls=""></video></p>
 ```
 
 ## API

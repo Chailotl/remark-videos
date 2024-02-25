@@ -10,17 +10,9 @@ export default function remarkVideos()
 			node.data = {
 				hName: 'video',
 				hProperties: {
+					src: node.url,
 					controls: true,
-					name: 'media'
-				},
-				hChildren: [{
-					type: 'element',
-					tagName: 'source',
-					properties: {
-						src: node.url,
-						type: 'video/mp4'
-					}
-				}]
+				}
 			}
 		}
 	}
