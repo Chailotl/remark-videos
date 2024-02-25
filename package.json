@@ -1,6 +1,6 @@
 {
 	"name": "@chailotl/remark-videos",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A remark plugin to embed videos the same way as images ",
 	"type": "module",
 	"main": "index.js",
@@ -10,7 +10,17 @@
 	"dependencies": {
 		"unist-util-visit": "5.0.0"
 	},
-	"keywords": [],
+	"keywords": [
+		"remark-plugin",
+		"videos",
+		"remark",
+		"unified",
+		"plugin",
+		"mdast",
+		"markdown"
+	],
+	"repository": "chailotl/remark-videos",
+	"bugs": "https://github.com/chailotl/remark-videos/issues",
 	"author": "Chai",
 	"license": "MIT"
 }
