@@ -1,7 +1,7 @@
 {
 	"name": "@chailotl/remark-videos",
-	"version": "1.0.3",
-	"description": "A remark plugin to embed videos the same way as images ",
+	"version": "1.0.4",
+	"description": "A remark plugin to embed videos with ![]()",
 	"type": "module",
 	"main": "index.js",
 	"scripts": {

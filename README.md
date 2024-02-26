@@ -1,6 +1,6 @@
 # remark-videos
 
-A **[remark][]** plugin to embed videos the same way as images.
+A **[remark][]** plugin to embed videos with `![]()`.
 
 ## Contents
 
@@ -15,11 +15,11 @@ A **[remark][]** plugin to embed videos the same way as images.
 
 ## What is this?
 
-This package is a [unified][] ([remark][]) plugin to embed videos the same way as images.
+This package is a [unified][] ([remark][]) plugin to embed videos with `![]()`.
 
 ## When should I use this?
 
-This
+This project is useful if you want to embed videos using the `![]()` syntax.
 
 ## Install
 
